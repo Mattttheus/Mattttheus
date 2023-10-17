@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante de Eng Computação <br>👯 Disponível para Estagio | Dev Jr °<br>🤝 Projetos integradores<br>🌱 Cursos de Tec Programação Web | Java |<br>💬 Domínio em PHP | JAVA | C | C# | C++<br>⚡ MySql | Sql | .Net | Bootstrap
+🔭 Estudante de Eng Computação Univesp <br>👯 Disponível para Estagio | Dev Jr °<br>🤝 Projetos integradores<br>🌱 Cursos de Tec Programação Web | Java |<br>💬 Domínio em PHP | JAVA | C | C# | C++<br>⚡ MySql | Sql | .Net | Bootstrap
 
 
 ## 🌐 Socials:
